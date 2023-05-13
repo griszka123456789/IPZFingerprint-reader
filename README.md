@@ -4,8 +4,10 @@
 This project is about vision system to control face, and fingerprint reader, which can be use for example in the gym's entrance.
 
 ## Features
+* Casing model
+![Model](Casingassemblyversion2-1.png)
 * Casing
-
-![Model](Casingassembly2.png)
+![Model](Casing-inside.png)
+![Model](Casing-outside.png)
 * Electrical template
 ![Model2](Electricaltemplate.png)
