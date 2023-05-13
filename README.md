@@ -1,13 +1,8 @@
-# IPZFingerprint-reader
 
 ## General info
-This project is about vision system to control face, and fingerprint reader, which can be use for example in the gym's entrance.
+This is our prototype version of casing model.
 
-## Features
-* Casing model
-![Model](Casingassemblyversion2-1.png)
-* Casing
-![Model](Casing-inside.jpg)
-![Model](Casing-outside.jpg)
-* Electrical template
-![Model2](Electricaltemplate.png)
+![Model](Casingassembly1.png)
+![Model](Casingassembly2.png)
+![Model](Casingassembly3.png)
+
