@@ -20,4 +20,4 @@ This project is about vision system to control face, and fingerprint reader, whi
 * Electrical template
 ![Model2](ELECTRICALTEMPLATEFINAL.png)
 * Power Supply
-![Model3](Power.png)
+![Model3](Power.jpg)
