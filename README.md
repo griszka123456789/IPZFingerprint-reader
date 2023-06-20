@@ -2,6 +2,7 @@
 
 ## General info
 This project is about vision system to control face, and fingerprint reader, which can be use for example in the gym's entrance.
+Video in youtube about our project: https://www.youtube.com/watch?v=AcCnbSq9phA
 ## Parts of the project
 - Casing
 - Arduino UNO
