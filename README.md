@@ -22,6 +22,8 @@ Video in youtube about our project: https://www.youtube.com/watch?v=AcCnbSq9phA
 ![Model2](ELECTRICALTEMPLATEFINAL.png)
 * Power Supply
 ![Model3](Power.jpg)
+* Assembly
+  ![Model5](assembly_ESP_ARDUINO.png)
 ##Inscrutions of programming 
 Programowanie ESP
 Projekt posiada parę ESP32 CAM. Mikrokontroler po prawej służy do wyświetlania obrazu na wykorzystanym ekranie lewe natomiast ma za zadanie umożliwić rozpoznanie twarzy i przy pomyślnym zdetekowaniu wcześniej zapisanej twarzy wysłanie wiadomości o otwarciu drzwi.
