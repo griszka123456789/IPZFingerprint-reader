@@ -22,3 +22,4 @@ Video in youtube about our project: https://www.youtube.com/watch?v=AcCnbSq9phA
 ![Model2](ELECTRICALTEMPLATEFINAL.png)
 * Power Supply
 ![Model3](Power.jpg)
+##Inscrutions of programming 
