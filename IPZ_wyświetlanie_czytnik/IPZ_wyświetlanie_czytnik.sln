@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IPZ_wyświetlanie_czytnik", "IPZ_wyświetlanie_czytnik.vcxproj", "{7F1C55B0-2677-4708-90C7-B8BE2483C95E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Adafruit_GFX_Library-1.10.5", "..\..\..\..\..\..\..\Documents\Arduino\libraries\Adafruit_GFX_Library\Adafruit_GFX_Library-1.10.5.vcxitems", "{2E4A2379-108A-400C-8A9E-F03357AED831}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TJpg_Decoder-1.0.6", "..\..\..\..\..\..\..\Documents\Arduino\libraries\TJpg_Decoder\TJpg_Decoder-1.0.6.vcxitems", "{A1E69637-9268-45A1-98A3-07961FF0AC75}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Adafruit_ST7735_and_ST7789_Library-1.6.0", "..\..\..\..\..\..\..\Documents\Arduino\libraries\Adafruit_ST7735_and_ST7789_Library\Adafruit_ST7735_and_ST7789_Library-1.6.0.vcxitems", "{90568D36-3F74-400A-A9DC-7EBA1FEEC9EC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Adafruit_BusIO-1.7.2", "..\..\..\..\..\..\..\Documents\Arduino\libraries\Adafruit_BusIO\Adafruit_BusIO-1.7.2.vcxitems", "{510EDF2D-9EFD-4C80-97A7-C05F7AB66558}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F1C55B0-2677-4708-90C7-B8BE2483C95E}.Debug|ARM.ActiveCfg = Debug|ARM
+		{7F1C55B0-2677-4708-90C7-B8BE2483C95E}.Debug|ARM.Build.0 = Debug|ARM
+		{7F1C55B0-2677-4708-90C7-B8BE2483C95E}.Debug|ARM.Deploy.0 = Debug|ARM
+		{7F1C55B0-2677-4708-90C7-B8BE2483C95E}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{7F1C55B0-2677-4708-90C7-B8BE2483C95E}.Debug|ARM64.Build.0 = Debug|ARM64
+		{7F1C55B0-2677-4708-90C7-B8BE2483C95E}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{7F1C55B0-2677-4708-90C7-B8BE2483C95E}.Debug|x64.ActiveCfg = Debug|x64
+		{7F1C55B0-2677-4708-90C7-B8BE2483C95E}.Debug|x64.Build.0 = Debug|x64
+		{7F1C55B0-2677-4708-90C7-B8BE2483C95E}.Debug|x64.Deploy.0 = Debug|x64
+		{7F1C55B0-2677-4708-90C7-B8BE2483C95E}.Debug|x86.ActiveCfg = Debug|x86
+		{7F1C55B0-2677-4708-90C7-B8BE2483C95E}.Debug|x86.Build.0 = Debug|x86
+		{7F1C55B0-2677-4708-90C7-B8BE2483C95E}.Debug|x86.Deploy.0 = Debug|x86
+		{7F1C55B0-2677-4708-90C7-B8BE2483C95E}.Release|ARM.ActiveCfg = Release|ARM
+		{7F1C55B0-2677-4708-90C7-B8BE2483C95E}.Release|ARM.Build.0 = Release|ARM
+		{7F1C55B0-2677-4708-90C7-B8BE2483C95E}.Release|ARM.Deploy.0 = Release|ARM
+		{7F1C55B0-2677-4708-90C7-B8BE2483C95E}.Release|ARM64.ActiveCfg = Release|ARM64
+		{7F1C55B0-2677-4708-90C7-B8BE2483C95E}.Release|ARM64.Build.0 = Release|ARM64
+		{7F1C55B0-2677-4708-90C7-B8BE2483C95E}.Release|ARM64.Deploy.0 = Release|ARM64
+		{7F1C55B0-2677-4708-90C7-B8BE2483C95E}.Release|x64.ActiveCfg = Release|x64
+		{7F1C55B0-2677-4708-90C7-B8BE2483C95E}.Release|x64.Build.0 = Release|x64
+		{7F1C55B0-2677-4708-90C7-B8BE2483C95E}.Release|x64.Deploy.0 = Release|x64
+		{7F1C55B0-2677-4708-90C7-B8BE2483C95E}.Release|x86.ActiveCfg = Release|x86
+		{7F1C55B0-2677-4708-90C7-B8BE2483C95E}.Release|x86.Build.0 = Release|x86
+		{7F1C55B0-2677-4708-90C7-B8BE2483C95E}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2D23DD5-09BF-4CF2-94DF-1AABB2738300}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		..\..\..\..\..\..\..\Documents\Arduino\libraries\Adafruit_GFX_Library\Adafruit_GFX_Library-1.10.5.vcxitems*{2e4a2379-108a-400c-8a9e-f03357aed831}*SharedItemsImports = 9
+		..\..\..\..\..\..\..\Documents\Arduino\libraries\Adafruit_BusIO\Adafruit_BusIO-1.7.2.vcxitems*{510edf2d-9efd-4c80-97a7-c05f7ab66558}*SharedItemsImports = 9
+		..\..\..\..\..\..\..\Documents\Arduino\libraries\Adafruit_BusIO\Adafruit_BusIO-1.7.2.vcxitems*{7f1c55b0-2677-4708-90c7-b8be2483c95e}*SharedItemsImports = 4
+		..\..\..\..\..\..\..\Documents\Arduino\libraries\Adafruit_GFX_Library\Adafruit_GFX_Library-1.10.5.vcxitems*{7f1c55b0-2677-4708-90c7-b8be2483c95e}*SharedItemsImports = 4
+		..\..\..\..\..\..\..\Documents\Arduino\libraries\Adafruit_ST7735_and_ST7789_Library\Adafruit_ST7735_and_ST7789_Library-1.6.0.vcxitems*{7f1c55b0-2677-4708-90c7-b8be2483c95e}*SharedItemsImports = 4
+		..\..\..\..\..\..\..\Documents\Arduino\libraries\TJpg_Decoder\TJpg_Decoder-1.0.6.vcxitems*{7f1c55b0-2677-4708-90c7-b8be2483c95e}*SharedItemsImports = 4
+		..\..\..\..\..\..\..\Documents\Arduino\libraries\Adafruit_ST7735_and_ST7789_Library\Adafruit_ST7735_and_ST7789_Library-1.6.0.vcxitems*{90568d36-3f74-400a-a9dc-7eba1feec9ec}*SharedItemsImports = 9
+		..\..\..\..\..\..\..\Documents\Arduino\libraries\TJpg_Decoder\TJpg_Decoder-1.0.6.vcxitems*{a1e69637-9268-45a1-98a3-07961ff0ac75}*SharedItemsImports = 9
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IPZ_detekcja_twarzy", "IPZ_detekcja_twarzy.vcxproj", "{02B156BF-697C-426E-ABF9-9A5F422D5099}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WiFi-1.0", "..\..\..\..\..\..\..\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.4\libraries\WiFi\WiFi-1.0.vcxitems", "{A2F63F40-7B68-411B-80CC-2A7338DEE47A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02B156BF-697C-426E-ABF9-9A5F422D5099}.Debug|ARM.ActiveCfg = Debug|ARM
+		{02B156BF-697C-426E-ABF9-9A5F422D5099}.Debug|ARM.Build.0 = Debug|ARM
+		{02B156BF-697C-426E-ABF9-9A5F422D5099}.Debug|ARM.Deploy.0 = Debug|ARM
+		{02B156BF-697C-426E-ABF9-9A5F422D5099}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{02B156BF-697C-426E-ABF9-9A5F422D5099}.Debug|ARM64.Build.0 = Debug|ARM64
+		{02B156BF-697C-426E-ABF9-9A5F422D5099}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{02B156BF-697C-426E-ABF9-9A5F422D5099}.Debug|x64.ActiveCfg = Debug|x64
+		{02B156BF-697C-426E-ABF9-9A5F422D5099}.Debug|x64.Build.0 = Debug|x64
+		{02B156BF-697C-426E-ABF9-9A5F422D5099}.Debug|x64.Deploy.0 = Debug|x64
+		{02B156BF-697C-426E-ABF9-9A5F422D5099}.Debug|x86.ActiveCfg = Debug|x86
+		{02B156BF-697C-426E-ABF9-9A5F422D5099}.Debug|x86.Build.0 = Debug|x86
+		{02B156BF-697C-426E-ABF9-9A5F422D5099}.Debug|x86.Deploy.0 = Debug|x86
+		{02B156BF-697C-426E-ABF9-9A5F422D5099}.Release|ARM.ActiveCfg = Release|ARM
+		{02B156BF-697C-426E-ABF9-9A5F422D5099}.Release|ARM.Build.0 = Release|ARM
+		{02B156BF-697C-426E-ABF9-9A5F422D5099}.Release|ARM.Deploy.0 = Release|ARM
+		{02B156BF-697C-426E-ABF9-9A5F422D5099}.Release|ARM64.ActiveCfg = Release|ARM64
+		{02B156BF-697C-426E-ABF9-9A5F422D5099}.Release|ARM64.Build.0 = Release|ARM64
+		{02B156BF-697C-426E-ABF9-9A5F422D5099}.Release|ARM64.Deploy.0 = Release|ARM64
+		{02B156BF-697C-426E-ABF9-9A5F422D5099}.Release|x64.ActiveCfg = Release|x64
+		{02B156BF-697C-426E-ABF9-9A5F422D5099}.Release|x64.Build.0 = Release|x64
+		{02B156BF-697C-426E-ABF9-9A5F422D5099}.Release|x64.Deploy.0 = Release|x64
+		{02B156BF-697C-426E-ABF9-9A5F422D5099}.Release|x86.ActiveCfg = Release|x86
+		{02B156BF-697C-426E-ABF9-9A5F422D5099}.Release|x86.Build.0 = Release|x86
+		{02B156BF-697C-426E-ABF9-9A5F422D5099}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {640246FA-D463-46B3-94D8-94418109708F}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		..\..\..\..\..\..\..\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.4\libraries\WiFi\WiFi-1.0.vcxitems*{02b156bf-697c-426e-abf9-9a5f422d5099}*SharedItemsImports = 4
+		..\..\..\..\..\..\..\AppData\Local\arduino15\packages\esp32\hardware\esp32\1.0.4\libraries\WiFi\WiFi-1.0.vcxitems*{a2f63f40-7b68-411b-80cc-2a7338dee47a}*SharedItemsImports = 9
+	EndGlobalSection
+EndGlobal
