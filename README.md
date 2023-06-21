@@ -14,7 +14,7 @@ Video in youtube about our project: https://www.youtube.com/watch?v=AcCnbSq9phA
 
 ## Features
 * Casing model
-![Model](Casingassemblyversion2-1.png)
+![Model](Casingassemblynew.png)
 * Casing
 ![Model](CasingINSIDE.jpg)
 ![Photos of casing](casingOUTSIDE.jpg)
